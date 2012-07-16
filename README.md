@@ -1,4 +1,5 @@
-drupal_standard_profile
-=======================
+AxiaCore Drupal standard profile
+================================
 
-A Drupal standard profile
+Base Drupal profile to start up the installation with
+a common set of modules and standard configuration.
